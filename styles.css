@@ -1,6 +1,6 @@
 /*  your css code here. If applicable */
 body{
-	background-color:#f6f6f6;
+	background-color:(204, 204, 204) 0px 0px 10px 0px);
 	display:flex;
 	justify-content:center;
 	align-item:center;
@@ -24,19 +24,19 @@ form{
 	gap:10px;
 }
 form > input{
-	border:1px solid #ccc;
+	border:1px solid rgb(24, 119, 242);
 	border-radius:5px;
 	padding:10px;
 }
 button:nth-last-child(3){
-	background-color:#1877f2;
+	background-color:rgb(24,119,242);
 	border-radius:5px;
 	padding:10px 20px;
 	width:100%;
 	color:white;
 }
 button:nth-last-child(1){
-	background-color:#42b72a;
+	background-color:rgb(66, 183, 42);
 	border-radius:5px;
 	padding:10px 20px;
 	width:100%;
