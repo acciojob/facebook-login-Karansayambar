@@ -33,12 +33,14 @@ button:nth-last-child(3){
 	border-radius:5px;
 	padding:10px 20px;
 	width:100%;
+	color:white;
 }
 button:nth-last-child(1){
 	background-color:#42b72a;
 	border-radius:5px;
 	padding:10px 20px;
 	width:100%;
+	color:white;
 }
 form > a{
 	text-decoration:none;
