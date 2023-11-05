@@ -21,6 +21,8 @@ form{
 	border-radius:5px;
 	width:100%;
 	gap:10px;
+	padding:20px;
+	border:2px solid rgb(229,229,229);
 }
 form > input{
 	border:1px solid rgb(204, 204, 204);
